@@ -1,0 +1,18 @@
+button{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    outline:none;
+    padding:1rem 1.2rem;
+    box-shadow: 0 0 6px 0px rgba(23, 23, 0, 0.482);
+    position: relative;
+    top:200px;
+    border: 20px solid black;
+    font-size: bold;
+}
+button:hover{
+    box-shadow: 0 0 19px 0px rgba(232, 202, 20, 0.548);
+
+}

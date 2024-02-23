@@ -1,0 +1,13 @@
+button{
+    background-color: rgba(255, 255, 255,0.123);
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    left: 43%;
+    padding:0.5rem;
+    font-size: 2rem;
+}
+

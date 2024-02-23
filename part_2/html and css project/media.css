@@ -1,0 +1,16 @@
+@media screen and (max-width:700px){
+  
+        .nav-items{
+            background-color: green;
+            width: 40%;   
+            display: grid;
+            list-style-type:none;
+            justify-content: space-between;
+    }
+    .todo-list li {
+      display: grid;
+      justify-items: center;
+      margin: 60px ;
+      /* background-color: black; */
+    }
+}

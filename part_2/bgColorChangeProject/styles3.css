@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.heading{
+    position: absolute;
+    top:233px;
+    background-color:#f0f0f0;
+    color: black;
+    padding: 30px;
+    border-radius: 20px;
+    border : 5px solid black;
+}
+.btn{
+position: relative;
+top:380px;
+background-color:#f0f0f0;
+color:black;
+padding: 16px;
+width:200px;
+border-radius: 12px;
+outline:none;
+border: none;
+cursor: pointer;
+border:2px solid black;
+}
+
